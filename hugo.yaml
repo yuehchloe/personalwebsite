@@ -1,0 +1,104 @@
+baseURL: "https://yuehchloe.com/"
+title: "Chloe Yueh"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Chloe Yueh"
+  description: "Personal site of Chloe Yueh, Master's student in Information at the University of Michigan."
+  keywords: [Data Science, Analytics, Personal, Blog]
+  author: "Chloe Yueh"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false # similar to file path
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+
+  profileMode:
+    enabled: true
+    title: "Chloe Yueh"
+    subtitle: "Information & data, with an eye for aesthetics."
+    imageUrl: "/images/profile.JPG"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Chloe Yueh"
+    buttons:
+      - name: Projects
+        url: projects
+      - name: Blog
+        url: blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yuehchloe"
+    - name: linkedin
+      url: "https://linkedin.com/in/yuehchloe"
+    - name: instagram
+      url: "https://www.instagram.com/yuehchloe/"
+    - name: email
+      url: "mailto:yuehchloe@gmail.com"
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>R on Chloe Yueh</title>
+    <link>http://localhost:1313/tags/r/</link>
+    <description>Recent content in R on Chloe Yueh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling Total Wealth Using Financial and Demographic Predictors</title>
+      <link>http://localhost:1313/projects/modeling-total-wealth/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/modeling-total-wealth/</guid>
+      <description>A term paper using GAMs, splines, and stepwise regression to predict household total wealth from 1991 SIPP data.</description>
+    </item>
+  </channel>
+</rss>

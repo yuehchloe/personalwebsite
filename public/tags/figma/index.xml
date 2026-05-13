@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Figma on Chloe Yueh</title>
+    <link>http://localhost:1313/tags/figma/</link>
+    <description>Recent content in Figma on Chloe Yueh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/figma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ccClub Homepage Redesign</title>
+      <link>http://localhost:1313/projects/ccclub-homepage-redesign/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ccclub-homepage-redesign/</guid>
+      <description>A UX redesign of ccClub.io&amp;rsquo;s homepage and a new learning resources page to improve user growth and retention.</description>
+    </item>
+  </channel>
+</rss>
