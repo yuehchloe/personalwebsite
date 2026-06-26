@@ -47,6 +47,8 @@ params:
         url: projects
       - name: Blog
         url: blog
+      - name: Resume
+        url: resume
 
   socialIcons:
     - name: github
@@ -93,12 +95,19 @@ menu:
       name: Blog
       url: /blog/
       weight: 30
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 35
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 40
 
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
