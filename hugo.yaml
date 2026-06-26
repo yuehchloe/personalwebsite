@@ -32,7 +32,7 @@ params:
   UseHugoToc: true
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
 
   profileMode:
     enabled: true
