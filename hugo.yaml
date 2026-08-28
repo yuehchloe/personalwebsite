@@ -91,13 +91,13 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 30
     - identifier: resume
       name: Resume
       url: /resume/
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog/
       weight: 35
     - identifier: tags
       name: Tags
