@@ -5,3 +5,16 @@
 .rounded-video {
     border-radius: 55px;
 }
+
+.photo-row {
+    display: flex;
+    gap: 8px;
+    margin: 1.5rem 0;
+}
+
+.photo-row img {
+    flex: 1;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}

@@ -45,10 +45,10 @@ params:
     buttons:
       - name: Projects
         url: projects
-      - name: Blog
-        url: blog
       - name: Resume
         url: resume
+      - name: Blog
+        url: blog
 
   socialIcons:
     - name: github
