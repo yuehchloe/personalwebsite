@@ -1,3 +1,7 @@
 .list {
     background: #FFFFFF;
 }
+
+.rounded-video {
+    border-radius: 12px;
+}

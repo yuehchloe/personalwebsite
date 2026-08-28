@@ -10,7 +10,9 @@ grammar rules, prototype flows.
 
 **Team:** 5 people
 
+
 **Timeline:** Sep 2025 to Jan 2026
+
 **Award:** 1st place, Health Track, UMich Ross Tech Innovation Jam ($1,500)
 
 **Code:** [github.com/SammiWang0516/SignNowPrototype](https://github.com/SammiWang0516/SignNowPrototype)
@@ -83,7 +85,7 @@ emergency rooms that fails without connectivity has failed at its own use case.
 
 ### Prototype
 
-<video controls muted loop playsinline width="360">
+<video class="rounded-video" controls muted loop playsinline width="360">
   <source src="two-way.mp4" type="video/mp4">
 </video>
 
@@ -91,12 +93,9 @@ emergency rooms that fails without connectivity has failed at its own use case.
 
 Won the Health Track at the UMich Ross Tech Innovation Jam.
 
-Usability testing with three Deaf and hard-of-hearing participants. All
-completed the core flow without instruction.
+Usability testing with three Deaf and hard-of-hearing participants. All completed the core flow without instruction.
 
-Pitch projections, not measured results and not independently sourced: 20%
-communication improvement, 15 minutes saved per visit, $2B annual value. These
-were hypothesis-driven estimates built for the pitch, not measured data.
+Pitch projections (hypothesis-driven estimates): 20% communication improvement, 15 minutes saved per visit, $2B annual value.
 
 ## Limitations
 
