@@ -63,6 +63,8 @@ daily words identified by working through likely scenarios. Clips are hosted sep
 
 Three stages sit behind a FastAPI service, each exposed as its own endpoint so it could be tested in isolation.
 
+![SignNow pipeline](SignNowPipeline.svg)
+
 **Audio to English.** Whisper base, running locally rather than through an API.
 Latency was a factor, but the main reason was privacy: this audio carries personal medical information that should not leave the device to reach a third-party server.
 
