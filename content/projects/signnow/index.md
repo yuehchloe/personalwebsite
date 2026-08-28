@@ -9,30 +9,13 @@ cover:
     relative: true
 ---
 
-**Role:** ASL translation layer. User research, video corpus, gloss mapping and grammar rules, prototype flows.
-
-**Team:** 5 people
-
-**Timeline:** Sep 2025 to Jan 2026
-
-**Award:** 1st place in Health Track, UMich Ross Tech Innovation Jam ($1,500)
-
-**Code:** [github.com/SammiWang0516/SignNowPrototype](https://github.com/SammiWang0516/SignNowPrototype)
-
----
-
 ## Problem
 
-Deaf patients in emergency care wait for interpreters during the window when decisions get made. Emergency calls involving language barriers require
-[33 to 43 percent longer dispatch times](https://pubmed.ncbi.nlm.nih.gov/23952940/).
-About [11 million Deaf and hard-of-hearing Americans](https://help.nationaldeafcenter.org/article/51-how-many-deaf-people-live-in-the-united-states)
-use a healthcare system that routes around them by default.
+Deaf patients in emergency care have especially long wait times and interpretation services are costly for healthcare providers. Emergency calls involving language barriers require [33 to 43 percent longer dispatch times](https://pubmed.ncbi.nlm.nih.gov/23952940/). This problem affects about [11 million Deaf and hard-of-hearing Americans](https://help.nationaldeafcenter.org/article/51-how-many-deaf-people-live-in-the-united-states).
 
-The existing workarounds each fail somewhere. Written notes assume English fluency, which does not hold when ASL is the first language. Video remote
-interpreting needs setup time and a stable connection, neither of which is reliable in an emergency room. Nothing on a phone went from spoken audio to ASL without a third party in the loop.
+Current solutions are flawed. Written notes assume English fluency. Video remote interpreting needs setup time and a stable connection. That's where SignNow comes in, a realtime audio to sign language translation pipeline.
 
-Speech recognition and text generation were not the hard part. Both are solved by models you can call. What no off-the-shelf component supplies is the middle:
-which signs the system can express, how English maps onto them, and what counts as a correct answer when the two grammars diverge. That layer was my work.
+Speech recognition and text generation can be solved by off-the-shelf models. However, the translation from written to sign language is the crux of our product: which signs the system can express, how English maps onto them, and what counts as a correct answer when the two grammars diverge. That layer was my work.
 
 ## Solution
 
@@ -94,3 +77,11 @@ speed rather than accuracy. Expanding the map is the fix, and it costs filming t
 - The language selector offers ASL, BSL, and PSL. Only ASL is implemented.
 - Filming every sign does not scale to open-domain speech. The alternative is generative signing, which reopens the trust problem the research surfaced. That tension is unresolved.
 - Has a latency of 5-10 seconds.
+
+## Metadata
+
+- Code: [github.com/SammiWang0516/SignNowPrototype](https://github.com/SammiWang0516/SignNowPrototype)
+- Responsibilities: ASL translation layer. User research, video corpus, gloss mapping and grammar rules, prototype flows.
+- Duration: Sep 2025 to Jan 2026
+- Team: 5 people
+- Award: 1st place in Health Track, UMich Ross Tech Innovation Jam ($1,500)
