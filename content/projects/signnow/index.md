@@ -2,7 +2,8 @@
 title: "SignNow: Real-Time Audio to ASL Translation"
 date: 2026-01-15
 summary: "A three-stage speech-to-ASL pipeline that renders output as filmed human video. Won 1st place in Health Track of UMich Ross Tech Innovation Jam."
-tags: ["NLP", "Whisper", "FastAPI", "Python", "Accessibility"]
+tags: ["Hackathon", "Python", "Accessibility design", "UX design"]
+categories: ["Design"]
 cover:
     image: "cover.png"
     alt: "SignNow"

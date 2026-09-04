@@ -2,7 +2,7 @@
 title: "ccClub Homepage Redesign"
 date: 2024-04-30
 draft: false
-tags: ["ux-design", "web-design", "figma"]
+tags: ["UX design", "Web design", "Figma"]
 categories: ["Design"]
 summary: "A UX redesign of ccClub.io's homepage and a new learning resources page to improve user growth and retention."
 cover:

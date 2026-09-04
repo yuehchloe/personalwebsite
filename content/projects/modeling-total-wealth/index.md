@@ -2,9 +2,9 @@
 title: "Modeling Total Wealth Using Financial and Demographic Predictors"
 date: 2021-03-15
 draft: false
-tags: ["statistics", "R", "regression", "term-paper"]
+tags: ["Statistics", "R", "Regression analysis", "Course paper"]
 categories: ["Data Analysis"]
-summary: "A term paper using GAMs, splines, and stepwise regression to predict household total wealth from 1991 SIPP data."
+summary: "A course paper using GAMs, splines, and stepwise regression to predict household total wealth from 1991 SIPP data."
 cover:
     image: "cover.png"
     alt: "Modeling Total Wealth"

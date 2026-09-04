@@ -2,8 +2,8 @@
 title: "Marketing Strategy for LINE Bank"
 date: 2024-03-31
 draft: false
-tags: ["marketing", "case-study", "fintech", "market-research"]
-categories: ["Strategy"]
+tags: ["Case study", "Fintech", "Market research"]
+categories: ["Case Study"]
 summary: "A three-day case study recommending growth strategies for Taiwan's largest pure-play online bank."
 cover:
     image: "cover.png"

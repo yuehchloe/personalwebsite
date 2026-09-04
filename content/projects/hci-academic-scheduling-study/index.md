@@ -2,9 +2,9 @@
 title: "UniSync: Effectiveness of Academic Scheduling among College Students"
 date: 2026-04-21
 draft: false
-tags: ["UX research", "Usability testing", "term paper", "Human-Computer interaction"]
+tags: ["UX research", "Usability testing", "Course paper", "Human-Computer interaction"]
 categories: ["Research"]
-summary: "An HCI course project applying contextual inquiry, heuristic evaluation, and usability testing to iteratively design UniSync, a student scheduling prototype — culminating in a 27-participant study showing AI-assisted syllabus upload cuts setup time by 78.7%."
+summary: "A course paper applying HCI research methods to iteratively design UniSync, a student scheduling prototype, ending in a 27-participant study showing AI-assisted syllabus upload cuts setup time by 78.7%."
 cover:
     image: "cover.png"
     alt: "UniSync task dashboard prototype"
