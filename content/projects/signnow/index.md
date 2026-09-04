@@ -83,5 +83,5 @@ speed rather than accuracy. Expanding the map is the fix, and it costs filming t
 - Code: [github.com/SammiWang0516/SignNowPrototype](https://github.com/SammiWang0516/SignNowPrototype)
 - Responsibilities: ASL translation layer. User research, video corpus, gloss mapping and grammar rules, prototype flows.
 - Duration: Sep 2025 to Jan 2026
-- Team: 5 people
+- Team: 5 people (Chloe Yueh, Chloe Yu Chen, Sammi Wang, Cynthia Lau and Caitlin Weingarden)
 - Award: 1st place in Health Track, UMich Ross Tech Innovation Jam ($1,500)

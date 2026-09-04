@@ -38,7 +38,7 @@ The initial design of the learning resources page included a search bar, but the
 
 The live page is at [ccclub.io/resources/learning](https://www.ccclub.io/resources/learning).
 
-### Metadata
+## Metadata
 
 - Duration: April 2024
 - Responsibilities: Web Design

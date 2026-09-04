@@ -88,7 +88,7 @@ Future research could explore additional variables or alternative modeling techn
 
 James, Gareth, et al. *An Introduction to Statistical Learning: with Applications in R*. Springer, 2017.
 
-### Metadata
+## Metadata
 
 - Duration: February 2021 – March 2021
 - Responsibilities: Statistical analysis using R and writing

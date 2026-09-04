@@ -11,7 +11,7 @@ cover:
     relative: true
 ---
 
-## Challenge
+## Problem
 
 LINE Bank, a pure-play online bank associated with the LINE messaging app, has not broken even financially since its establishment due to its inability to attract users. This case study provides recommendations to drive user growth.
 
@@ -37,7 +37,7 @@ LINE Bank, a pure-play online bank associated with the LINE messaging app, has n
 ![Slide 5](slide-5.png)
 ![Slide 6](slide-6.png)
 
-### Metadata
+## Metadata
 
 - Duration: March 2024 (3 days)
 - Responsibilities: Market Research
