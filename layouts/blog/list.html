@@ -13,11 +13,11 @@
   <a class="project-card" href="{{ .Permalink }}">
     {{- with $coverImg }}
     <div class="project-card-image">
-      <img src="{{ .Permalink }}" alt="{{ .Title }}" loading="lazy">
+      <img src="{{ .Permalink }}" alt="{{ .Title | markdownify | plainify }}" loading="lazy">
     </div>
     {{- end }}
     <div class="project-card-body">
-      <h2 class="project-card-title">{{ .Title }}</h2>
+      <h2 class="project-card-title">{{ .Title | markdownify }}</h2>
       {{- with .Summary }}
       <p class="project-card-summary">{{ . | plainify | htmlUnescape }}</p>
       {{- end }}
