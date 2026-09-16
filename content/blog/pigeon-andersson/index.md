@@ -4,6 +4,7 @@ date: 2026-09-04
 draft: false
 tags: ["Movie review"]
 categories: ["Movies"]
+summary: "An existential film by Swedish filmmaker Roy Andersson"
 cover:
     image: "cover.jpg"
     alt: "Movie poster of A Pigeon Sat on a Branch Reflecting on Existence"
@@ -11,7 +12,7 @@ cover:
 ---
 ## Why I chose this movie
 
-I saw a comment on the [trailer](https://www.youtube.com/watch?v=vtuaVh17ZLY) for Monsta X's EP *The Phase* saying that the cinematic style reminds the person of this movie, and I was intrigued because why would you say no to reflecting on your own existence.
+I saw a comment on the [trailer](https://www.youtube.com/watch?v=vtuaVh17ZLY) for Monsta X's EP *The Phase* saying that the cinematic style reminds them of this movie, and I was intrigued because why would you say no to reflecting on your own existence.
 
 ## Synopsis
 
@@ -19,7 +20,7 @@ Just as its opening title "This is the final part of a trilogy about being a hum
 
 ## Review
 
-The film opens with “Three Meetings with Death.” In each vignette someone is dying while the people around them remain absorbed in their own concerns: a man suffers a heart attack while his wife cheerfully continues cooking; a woman lies on her deathbed while her relatives argue over the inheritance.
+The film opens with “Three Meetings with Death.” In each vignette someone is dying while the people around them remain absorbed in their own concerns: a man suffers a heart attack while his wife cheerfully continues cooking; a woman lies on her deathbed while her relatives argue over the inheritance; a dead man lies on the floor in the cafeteria of a cruise ship and the cashier asked if anyone wants to take the food he had just ordered but unfortunately couldn't eat.
 
 Charles XII’s storyline centers on the Battle of Poltava, where the combined Swedish and Ukrainian Cossack forces were defeated by Russia—an event that marked the beginning of Russian military dominance over Ukraine. The film’s 2014 release makes the parallel feel especially pointed.
 
