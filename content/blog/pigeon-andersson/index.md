@@ -1,5 +1,5 @@
 ---
-title: "A Pigeon Sat on a Branch Reflecting on Existence: Cruelty and the Efforts to Cover it"
+title: "*A Pigeon Sat on a Branch Reflecting on Existence*: Cruelty and the Efforts to Conceal it"
 date: 2026-09-04
 draft: false
 tags: ["Movie review"]
@@ -26,7 +26,7 @@ Charles XII’s storyline centers on the Battle of Poltava, where the combined S
 
 Near the end comes a scene of enslaved people being burned alive, used as a stark metaphor for the Boliden company’s exploitation in Africa.
 
-Running through all of this is a critique of modern life. Society has become so Tayloristic that individuals are reduced to small cogs in an industrial machine. The result is a pervasive sense of powerlessness and numbness toward the world and the people in it. That numbness is papered over by the same polite falsehood, repeated by different characters throughout the film: “I’m happy to hear that you are doing fine.”
+Running through all of this is a critique of modern life. Society has become so Tayloristic that individuals are reduced to small cogs in an industrial machine. The result is a pervasive sense of powerlessness and numbness toward the world and the people in it. That numbness is covered up by the same polite falsehood, repeated by different characters throughout the film: “I’m happy to hear that you are doing fine.”
 
 And finally, I love the Edward Hopper-esque compositions that carry this emotional weight visually.
 
