@@ -1,4 +1,4 @@
-{{- if eq .Section "projects" }}
+{{- if or (eq .Section "projects") (eq .Section "blog") }}
 <style>
   .main {
     max-width: calc(1000px + var(--gap) * 2);
