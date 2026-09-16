@@ -1,5 +1,5 @@
 ---
-title: "A Pigeon Sat on a Branch Reflecting on Existence"
+title: "A Pigeon Sat on a Branch Reflecting on Existence: Cruelty and the Efforts to Cover it"
 date: 2026-09-04
 draft: false
 tags: ["Movie review"]
