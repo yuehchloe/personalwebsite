@@ -5,7 +5,7 @@ draft: false
 tags: ["Movie review"]
 categories: ["Movies"]
 cover:
-    image: "cover.png"
+    image: "cover.jpg"
     alt: "Movie poster of A Pigeon Sat on a Branch Reflecting on Existence"
     relative: true
 ---
