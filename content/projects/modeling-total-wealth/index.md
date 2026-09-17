@@ -6,7 +6,7 @@ tags: ["Statistics", "R", "Regression analysis", "Course paper"]
 categories: ["Data Analysis"]
 summary: "A course paper using GAMs, splines, and stepwise regression to predict household total wealth from 1991 SIPP data."
 cover:
-    image: "cover.png"
+    image: "cover.avif"
     alt: "Modeling Total Wealth"
     relative: true
 ---
