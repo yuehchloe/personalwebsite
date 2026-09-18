@@ -20,13 +20,13 @@ Just as its opening title "This is the final part of a trilogy about being a hum
 
 ## Review
 
-The film opens with “Three Meetings with Death.” In each vignette someone is dying while the people around them remain absorbed in their own concerns: a man suffers a heart attack while his wife cheerfully continues cooking; a woman lies on her deathbed while her relatives argue over the inheritance; a dead man lies on the floor in the cafeteria of a cruise ship and the cashier asked if anyone wants to take the food he had just ordered but unfortunately couldn't eat.
+The film opens with “Three Meetings with Death.” In each vignette someone is dying while the people around them remain absorbed in their own concerns: a man suffers a heart attack while his wife cheerfully continues cooking; a woman lies on her deathbed while her relatives argue over the inheritance; a dead man lies on the floor in the cafeteria of a cruise ship and the cashier asks if anyone wants to take the food he had just ordered.
 
-Charles XII’s storyline centers on the Battle of Poltava, where the combined Swedish and Ukrainian Cossack forces were defeated by Russia—an event that marked the beginning of Russian military dominance over Ukraine. The film’s 2014 release makes the parallel feel especially pointed.
+Charles XII's story mainly focused on the Battle of Poltava, where the combined Swedish and Ukranian Cossack forces were defeated by Russia, marking the start of Russian military control over Ukraine. So it seemed timely that the film was released in 2014, the same year when the Russo-Ukrainian war began.
 
 Near the end comes a scene of enslaved people being burned alive, used as a stark metaphor for the Boliden company’s exploitation in Africa.
 
-Running through all of this is a quiet, sharp critique of modern life. Society has become so Tayloristic that individuals are reduced to small cogs in an industrial machine, leaving them powerless and numb to the cruelty around them. That numbness is reflected in the polite falsehood repeated by different characters throughout the film: “I’m happy to hear that you are doing fine.”
+Running through all of this is a sharp critique of modern life. Society has become so Tayloristic that individuals are reduced to small cogs in an industrial machine, leaving them powerless and numb to the cruelty around them. That numbness is reflected in the polite falsehood repeated by different characters throughout the film: “I’m happy to hear that you are doing fine.”
 
 And finally, I love the Edward Hopper-esque compositions that carry this emotional weight visually.
 
