@@ -37,7 +37,7 @@ params:
   profileMode:
     enabled: true
     title: "Chloe Yueh"
-    subtitle: "Information & data, with an eye for aesthetics."
+    subtitle: "Data & other stories"
     imageUrl: "/images/profile.JPG"
     imageWidth: 120
     imageHeight: 120
